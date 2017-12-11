@@ -11,3 +11,5 @@ Start to use remote repository.
 Creating a new branch is quick AND simple.
 
 Branch Management
+
+stash
